@@ -56,8 +56,8 @@ $preguntas = obtenerPregunta();
       <?php } ?>
       <input type="submit" value="Enviar" name="enviar" class="envio">
   </form>
-  <footer>    
-    <p> Grupo 6 | HACKTOON 2023 | Libertad - Merlo </p>
+  <footer class="footer">    
+    <h3> Grupo 6 | HACKATHON 2023 | Libertad - Merlo </h3>
   </footer>
 </body>
 </html>
